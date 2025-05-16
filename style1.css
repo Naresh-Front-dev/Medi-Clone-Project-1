@@ -1159,7 +1159,7 @@ h6::after {
     display: flex;
 }
 
-HEAD body,
+ body,
 html {
     overflow-x: hidden;
 }
