@@ -1701,7 +1701,6 @@ html {
         text-align: center;
         align-items: center;
         height: 266px;
-        height: 204px;
         width: 684px;
         align-content: center;
         position: relative;
@@ -1818,24 +1817,23 @@ html {
 }
 
 @media only screen and (max-width:768px) {
-    .item div {
-        border: 2px solid white;
-        text-align: center;
-        align-items: center;
-        height: 256px;
-        height: 204px;
-        width: 524px;
-        align-content: center;
-        position: relative;
-        top: 160px;
-        margin-left: 0px;
-        background: white;
-        border-top-color: #3fbbc0;
-        border-top-width: 8px;
-        opacity: 0.9;
-        letter-spacing: 2px;
-        line-height: 31px;
-    }
+.item div {
+    border: 2px solid white;
+    text-align: center;
+    align-items: center;
+    height: 251px;
+    width: 524px;
+    align-content: center;
+    position: relative;
+    top: 160px;
+    margin-left: 0px;
+    background: white;
+    border-top-color: #3fbbc0;
+    border-top-width: 8px;
+    opacity: 0.9;
+    letter-spacing: 1px;
+    line-height: 28px;
+}
 
 
     .ab2-text img {
